@@ -7,3 +7,6 @@ Aim of project was to to create intelligent flying hummingbirds that can navigat
 These hummingbirds have six degrees of freedom, meaning they can fly and turn in any direction to find targets. 
 
 Self learning agents were implemented using Reinforcement Learning technique.
+
+![ml](https://github.com/HornostaievPavlo/ML-Agents/assets/100617116/5bcb9c68-03a6-49b8-8995-e1178793577d)
+
